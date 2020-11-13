@@ -14,5 +14,8 @@
         <module>ynmall-product</module>
         <module>ynmall-member</module>
         <module>ynmall-order</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>ynmall-common</module>
     </modules>
 </project>
